@@ -1,1 +1,2 @@
-# Siraphop4Nene-bootstrapping-assingment
+# Siraphop4Nene-bootstrapping-assingment.  
+Repository for assignment6 in software architech
